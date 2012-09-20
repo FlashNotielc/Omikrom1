@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Music\ getMusic()
+comment1.params=m
+comment1.target=void\ AdicionaUmaMusica(Music)
+comment1.text=\r\n\ Metodo\ utilizado\ para\ adicionar\ uma\ musica\ no\ PlayList\r\n\ recebe\ como\ par\u00E2metro\ a\ m\u00FAsica\ a\ ser\ inserida\r\n
+comment2.params=
+comment2.target=void\ AdicionarMusicasDeArquivo()
+comment2.text=\r\n\ Adiciona\ todo\ o\ arquivo\ de\ m\u00FAsicas\r\n\ recebe\ como\ par\u00E2metro\ informa\u00E7\u00F5es\ referente\ ao\ arquivo\ onde\ se\ encontram\ as\ musicas\r\n
+comment3.params=
+comment3.target=void\ ListarMusicasDaBibliotecaDeMusicas()
+comment3.text=\r\n\ Lista\ m\u00FAsicas\ dispon\u00EDveis\ na\ biblioteca\ de\ m\u00FAsicas\ mostrando\ o\ ID\ junto\ de\ cada\ m\u00FAsica\r\n
+numComments=4
